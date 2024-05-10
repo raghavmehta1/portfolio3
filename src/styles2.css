@@ -1,0 +1,183 @@
+/* My specialties */
+
+@import url("https://fonts.googleapis.com/css2?family=IBM Plex Sans:wght@400;700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.my-specialties-1 {
+  width: 1635px;
+  height: 960px;
+  padding: 80px 285px 92px 115px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-1014 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.service {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.my-specialties {
+  color: rgba(20, 19, 19, 1);
+  font-size: 48px;
+  line-height: 117%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.services {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+}
+.web-design-1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.web-design {
+  color: rgba(20, 19, 19, 1);
+  font-size: 32px;
+  line-height: 150%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.you-can-customize-atemp {
+  color: rgba(20, 19, 19, 0.8);
+  font-size: 16px;
+  line-height: 175%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.pluscircle {
+  width: 40px;
+  height: 40px;
+}
+
+.ui-ux-design-1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.ui-ux-design {
+  color: rgba(20, 19, 19, 1);
+  font-size: 32px;
+  line-height: 150%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.you-can-customize-atemp-1 {
+  color: rgba(20, 19, 19, 0.8);
+  font-size: 16px;
+  line-height: 175%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.pluscircle-1 {
+  width: 40px;
+  height: 40px;
+}
+
+.mobile-application-1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mobile-application {
+  background-color: linear-gradient(
+    -89.66deg,
+    rgba(255, 177, 71, 1) 0%,
+    rgba(255, 108, 99, 1) 52%,
+    rgba(184, 106, 223, 1) 100%
+  );
+  -webkit--background--clip: text;
+  -webkit--text--fill--color: transparent;
+  font-size: 32px;
+  line-height: 150%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.group-1065 {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.img {
+  width: 430px;
+  height: 180px;
+}
+
+.you-can-customize-atemp-2 {
+  color: rgba(20, 19, 19, 0.8);
+  font-size: 16px;
+  line-height: 150%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.pluscircle-2 {
+  width: 40px;
+  height: 40px;
+}
+
+.user-research-1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.user-research {
+  color: rgba(20, 19, 19, 1);
+  font-size: 32px;
+  line-height: 150%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.you-can-customize-atemp-3 {
+  color: rgba(20, 19, 19, 0.8);
+  font-size: 16px;
+  line-height: 175%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.pluscircle-3 {
+  width: 40px;
+  height: 40px;
+}

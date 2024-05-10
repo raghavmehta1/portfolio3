@@ -1,0 +1,1038 @@
+
+@import url("https://fonts.googleapis.com/css2?family=IBM Plex Sans:wght@400;500&display=swap");
+
+p {
+  margin: 0;
+}
+
+
+
+
+
+p {
+  margin: 0;
+}
+
+.img2 {
+  width: 528.15px;
+  height: 691.29px;
+  justify-content: right;
+  align-items: right;
+  
+    display: block;
+    margin-left: auto;
+
+
+}
+
+
+
+.group-544 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+.content-1 {
+  position: relative;
+  width: 597px;
+  height: 538px;
+  box-sizing: border-box;
+}
+.vector {
+  position: absolute;
+  top: 0%;
+  bottom: 88.69%;
+  left: 0%;
+  right: 58.29%;
+  width: 249px;
+  height: 60.82px;
+}
+
+.content {
+  position: absolute;
+  top: 12px;
+  left: 52px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 64px;
+  width: 545px;
+  height: 526px;
+  box-sizing: border-box;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.txt {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+}
+.my-name-is-jacob-jones {
+  color: rgba(20, 19, 19, 1);
+  font-size: 102px;
+  line-height: 88%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase; 
+}
+
+.product-designer-based {
+  color: rgba(20, 19, 19, 1);
+  font-size: 32px;
+  line-height: 100%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.button-1 {
+  width: fit-content;
+  height: 56px;
+  box-sizing: border-box;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 150px;
+  height: 150px;
+  padding: 15.83px 37.83px;
+  box-sizing: border-box;
+  background-color: rgba(20, 19, 19, 1);
+}
+.let-talk-with-me {
+  color: rgb(235, 234, 234);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 500;
+}
+
+.north-_east {
+  width: 15px;
+  height: 15px;
+
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 48px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.call {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon {
+  width: 32px;
+  height: 100%;
+}
+
+._-770224440505 {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: bolder;
+
+}
+
+.mail {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon-1 {
+  width: 32px;
+  height: 100%;
+}
+
+.jacob-360-gmail-com {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+/* App.css */
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.main-container {
+  display: flex;
+  flex: 1;
+}
+
+.side-bar {
+  width: 35%;
+  background-color: #000000;
+  color: #fafafa;
+  display: inline-block
+}
+
+.hero {
+  flex: 1;
+  padding: 20px;
+}
+
+.socialmedia{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 200px;
+  width: 1000%;
+  padding: 2000px;
+}
+
+.menu p{
+  font-size: 29px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+  padding: 25px;
+  color: #fafafa;
+
+
+}
+
+@import url("https://fonts.googleapis.com/css2?family=IBM Plex Sans:wght@400;500;700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.welcome-to-1 {
+  width: 1635px;
+  height: 910px;
+  padding: 1000px 2850px 600px 1150px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-133 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.nice-to-meet-you {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.welcome-to {
+  color: rgba(20, 19, 19, 1);
+  font-size: 48px;
+  line-height: 117%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.group-1081 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.img-1 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+  
+}
+
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.title-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.jacob-jones {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: linear-gradient(
+    -89.57deg,
+    rgba(255, 177, 71, 1) 0%,
+    rgba(255, 108, 99, 1) 52%,
+    rgba(184, 106, 223, 1) 100%
+  );
+  -webkit--background--clip: text;
+  -webkit--text--fill--color: transparent;
+  font-size: 48px;
+  line-height: 100%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -2.4px;
+  text-transform: uppercase;
+}
+
+.product-designer-based {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(20, 19, 19, 1);
+  font-size: 24px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.72px;
+}
+
+.button-1 {
+  width: fit-content;
+  height: 56px;
+  box-sizing: border-box;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+  padding: 15.83px 37.83px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.download-cv {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.north-_east {
+  width: 24px;
+  height: 24px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-797 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.call {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon {
+  width: 40px;
+  height: 100%;
+}
+
+._-770224440505 {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.age {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon-1 {
+  width: 40px;
+  height: 100%;
+}
+
+._-25-yrs {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.group-648 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.email {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon-2 {
+  width: 40px;
+  height: 100%;
+}
+
+.jacob-360-gmail-com {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.location {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon-3 {
+  width: 40px;
+  height: 100%;
+}
+
+.united-kingdom-london {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.group-649 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+._-10-years-of-experience {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.title-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+._-10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: linear-gradient(
+    -88.38deg,
+    rgba(255, 177, 71, 1) 0%,
+    rgba(255, 108, 99, 1) 52%,
+    rgba(184, 106, 223, 1) 100%
+  );
+  -webkit--background--clip: text;
+  -webkit--text--fill--color: transparent;
+  font-size: 48px;
+  line-height: 100%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -2.4px;
+  text-transform: uppercase;
+}
+
+.years-experience {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 111%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.hello-there-my-name-is-ja {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+._-14-clients-worldwide {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.title-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+._-14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: linear-gradient(
+    -87.64deg,
+    rgba(255, 177, 71, 1) 0%,
+    rgba(255, 108, 99, 1) 52%,
+    rgba(184, 106, 223, 1) 100%
+  );
+  -webkit--background--clip: text;
+  -webkit--text--fill--color: transparent;
+  font-size: 48px;
+  line-height: 100%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -2.4px;
+  text-transform: uppercase;
+}
+
+.clients-worldwide {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 111%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.with-10-years-experienc {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.quotes {
+  width: 100%;
+  height: 144px;
+  padding: 40px;
+  box-sizing: border-box;
+  background-color: rgba(20, 19, 19, 1);
+}
+.txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ri-double-quotes-r {
+  width: 64px;
+  height: 100%;
+  opacity: 0.2;
+}
+
+.lorem-ipsum-dolor-sit-am {
+  color: rgba(255, 255, 255, 1);
+  font-size: 20px;
+  line-height: 160%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+/* Welcome to */
+
+@import url("https://fonts.googleapis.com/css2?family=IBM Plex Sans:wght@400;500;700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.welcome-to-1 {
+  width: 1635px;
+  height: 910px;
+  padding: 100px 285px 60px 115px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-133 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.nice-to-meet-you {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.welcome-to {
+  color: rgba(20, 19, 19, 1);
+  font-size: 48px;
+  line-height: 117%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.group-1081 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.img-1 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.title-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.jacob-jones {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: linear-gradient(
+    -89.57deg,
+    rgba(255, 177, 71, 1) 0%,
+    rgba(255, 108, 99, 1) 52%,
+    rgba(184, 106, 223, 1) 100%
+  );
+  -webkit--background--clip: text;
+  -webkit--text--fill--color: transparent;
+  font-size: 48px;
+  line-height: 100%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -2.4px;
+  text-transform: uppercase;
+}
+
+.product-designer-based {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(20, 19, 19, 1);
+  font-size: 24px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.72px;
+}
+
+.button-1 {
+  width: fit-content;
+  height: 56px;
+  box-sizing: border-box;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+  padding: 15.83px 37.83px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.download-cv {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.north-_east {
+  width: 24px;
+  height: 24px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-797 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.call {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon {
+  width: 40px;
+  height: 100%;
+}
+
+._-770224440505 {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.age {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon-1 {
+  width: 40px;
+  height: 100%;
+}
+
+._-25-yrs {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.group-648 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.email {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon-2 {
+  width: 40px;
+  height: 100%;
+}
+
+.jacob-360-gmail-com {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.location {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.icon-3 {
+  width: 40px;
+  height: 100%;
+}
+
+.united-kingdom-london {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.group-649 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+._-10-years-of-experience {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.title-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+._-10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: linear-gradient(
+    -88.38deg,
+    rgba(255, 177, 71, 1) 0%,
+    rgba(255, 108, 99, 1) 52%,
+    rgba(184, 106, 223, 1) 100%
+  );
+  -webkit--background--clip: text;
+  -webkit--text--fill--color: transparent;
+  font-size: 48px;
+  line-height: 100%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -2.4px;
+  text-transform: uppercase;
+}
+
+.years-experience {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 111%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.hello-there-my-name-is-ja {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+._-14-clients-worldwide {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.title-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+._-14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: linear-gradient(
+    -87.64deg,
+    rgba(255, 177, 71, 1) 0%,
+    rgba(255, 108, 99, 1) 52%,
+    rgba(184, 106, 223, 1) 100%
+  );
+  -webkit--background--clip: text;
+  -webkit--text--fill--color: transparent;
+  font-size: 48px;
+  line-height: 100%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -2.4px;
+  text-transform: uppercase;
+}
+
+.clients-worldwide {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 111%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.with-10-years-experienc {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.quotes {
+  width: 100%;
+  height: 144px;
+  padding: 40px;
+  box-sizing: border-box;
+  background-color: rgba(20, 19, 19, 1);
+}
+.txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ri-double-quotes-r {
+  width: 64px;
+  height: 100%;
+  opacity: 0.2;
+}
+
+.lorem-ipsum-dolor-sit-am {
+  color: rgba(255, 255, 255, 1);
+  font-size: 20px;
+  line-height: 160%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+.about{
+  padding:200px;
+}

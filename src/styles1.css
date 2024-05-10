@@ -1,0 +1,235 @@
+/* Read my blog */
+
+@import url("https://fonts.googleapis.com/css2?family=IBM Plex Sans:wght@400;500;700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.read-my-blog-1 {
+  width: 1635px;
+  height: 960px;
+  padding: 100px 400px 175px 115px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-4101 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.blog {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.read-my-blog {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(20, 19, 19, 1);
+  font-size: 48px;
+  line-height: 117%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.group-589 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.blog-01 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 24px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.img {
+  width: 100%;
+  height: 260px;
+}
+
+.blog-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.title-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+._-10-july-2022 {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+._-12-unique-example-of-po {
+  color: rgba(25, 25, 23, 1);
+  font-size: 24px;
+  line-height: 125%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+}
+
+.blog-02 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 24px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.img-1 {
+  width: 100%;
+  height: 260px;
+}
+
+.blog-details-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.title-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+._-10-july-20221 {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+._-12-unique-example-of-po1 {
+  color: rgba(25, 25, 23, 1);
+  font-size: 24px;
+  line-height: 125%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+}
+
+.blog-03 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 24px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.img-2 {
+  width: 100%;
+  height: 260px;
+}
+
+.blog-details-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.title-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+._-10-july-20222 {
+  color: rgba(20, 19, 19, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 400;
+}
+
+._-12-unique-example-of-po2 {
+  color: rgba(25, 25, 23, 1);
+  font-size: 24px;
+  line-height: 125%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 700;
+}
+
+.button-1 {
+  width: fit-content;
+  height: 56px;
+  box-sizing: border-box;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+  padding: 15.83px 37.83px;
+  box-sizing: border-box;
+  background-color: rgba(20, 19, 19, 1);
+}
+.load-more {
+  color: rgba(255, 255, 255, 1);
+  font-size: 18px;
+  line-height: 133%;
+  font-family: IBM Plex Sans, sans-serif;
+  font-weight: 500;
+}
+
+.north-_east {
+  width: 24px;
+  height: 24px;
+}
